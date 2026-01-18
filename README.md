@@ -24,7 +24,7 @@ This project helps to:
 
 ## ⚙️ Workflow
 1. import libraries & Send a request to the Wuzzuf job page
-![image alt]([url](https://github.com/doaahilal93-debug/wuzzuf-data-analyst-job-scraper/blob/7960176cf8183437d84a64a3aaa7e49be0e9fe06/1.png))
+![image](1.png)
    
 3. Read the HTML content  
 4. Extract job cards  
