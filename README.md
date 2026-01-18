@@ -23,16 +23,16 @@ This project helps to:
 ---
 
 ## ⚙️ Workflow
-1. Send a request to the Wuzzuf job page  
+1. import libraries & Send a request to the Wuzzuf job page  
 2. Read the HTML content  
 3. Extract job cards  
 4. Extract:
    - Job Title  
    - Company Name  
    - Job Type  
-   - Work Mode  
-5. Save the data to a CSV file  
-6. Load the file using Pandas  
+   - Work Mode
+   & Save the data to a CSV file  
+5. Load the file using Pandas  
 
 ---
 
