@@ -26,15 +26,22 @@ This project helps to:
 1. import libraries & Send a request to the Wuzzuf job page
 ![image](1.png)
    
-3. Read the HTML content  
-4. Extract job cards  
-5. Extract:
+2. Read the HTML content
+ ![image](2.png)
+ 
+3. Extract job cards
+![image](3.png)
+
+4. Extract:
    - Job Title  
    - Company Name  
    - Job Type  
    - Work Mode
-   & Save the data to a CSV file  
-6. Load the file using Pandas  
+   & Save the data to a CSV file
+![image](4.png)
+
+5. Load the file using Pandas  
+![image](5.png)
 
 ---
 
