@@ -23,16 +23,18 @@ This project helps to:
 ---
 
 ## ⚙️ Workflow
-1. import libraries & Send a request to the Wuzzuf job page  
-2. Read the HTML content  
-3. Extract job cards  
-4. Extract:
+1. import libraries & Send a request to the Wuzzuf job page
+![image alt]([url](https://github.com/doaahilal93-debug/wuzzuf-data-analyst-job-scraper/blob/7960176cf8183437d84a64a3aaa7e49be0e9fe06/1.png))
+   
+3. Read the HTML content  
+4. Extract job cards  
+5. Extract:
    - Job Title  
    - Company Name  
    - Job Type  
    - Work Mode
    & Save the data to a CSV file  
-5. Load the file using Pandas  
+6. Load the file using Pandas  
 
 ---
 
